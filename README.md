@@ -16,7 +16,7 @@ app/http/controllers/AuthController.php
 • Test APIs in Postman:-
 • Follow Path routes/api.php
 • Test apis in postman
-<img src="{{url('api.jpg')}}">
+![Alt text](public/api.jpg "Optional title")
 • This access token will be used to make the user 
 authenticated
 • I used Repository Design Pattern To make code more 
@@ -30,7 +30,7 @@ app/Repositories/UserRepositoryInterface.php
 • getUserRoles() this is relation to get roles of user
 • To see migration file of roles table follow path 
 database/migrations/roles.php
-• Jwt documentation =><a href="https://jwtauth.readthedocs.io/en/develop/laravel-installation">JWT Documentation</a> 
+• Jwt documentation =><a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation/">JWT Documentation</a> 
 • Laravel documentation =><a href="https://laravel.com ">Laravel Documentation</a> 
 </body>
 </html>
