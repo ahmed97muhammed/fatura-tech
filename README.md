@@ -17,7 +17,7 @@ app/http/controllers/AuthController.php<br>
 • Follow Path routes/api.php<br>
 • Test apis in postman<br>
 <p>
-    <img src="api.jpg" width="220" height="240" />
+    <img src="api.jpg" width="4000" height="400" />
 </p>
 <br>
 • This access token will be used to make the user <br>
