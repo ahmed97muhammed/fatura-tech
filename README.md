@@ -14,13 +14,13 @@ system.<br>
 -Using JWT auth :- follow path <br>
 app/http/controllers/AuthController.php<br>
 <p>
-    <img src="screenshots/1.jpg" width="900" height="700" />
+    <img src="screenshots/1.jpg" width="900" height="500" />
 </p>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
 • Test apis in postman<br>
 <p>
-    <img src="screenshots/api.jpg" width="900" height="700" />
+    <img src="screenshots/api.jpg" width="900" height="500" />
 </p>
 <br>
 • This access token will be used to make the user <br>
