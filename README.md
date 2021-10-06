@@ -14,7 +14,7 @@ system.<br>
 -Using JWT auth :- follow path <br>
 app/http/controllers/AuthController.php<br>
 <p>
-    <img src="screenshots/1.jpg" width="900" height="500" />
+    <img src="screenshots/1.jpg" width="500" height="400" />
 </p>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
