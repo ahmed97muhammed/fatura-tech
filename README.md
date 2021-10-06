@@ -13,6 +13,7 @@ system.<br>
 • secure user's session (session, jwt):<br>
 -Using JWT auth :- follow path <br>
 app/http/controllers/AuthController.php<br>
+Note: if screenshot not appear correctly click on it to open it
 <p>
     <img src="screenshots/1.jpg" width="900" height="500" />
 </p>
