@@ -16,7 +16,10 @@ app/http/controllers/AuthController.php<br>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
 • Test apis in postman<br>
-![ScreenShot](api.jpg)<br>
+<p>
+    <img src="api.jpg" width="220" height="240" />
+</p>
+<br>
 • This access token will be used to make the user <br>
 authenticated<br>
 • I used Repository Design Pattern To make code more 
