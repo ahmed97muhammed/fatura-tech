@@ -1,3 +1,5 @@
+<html>
+<body>
 Fatura-tech task
 Ahmed Muhammed Ahmed 
 Email:a7med97mu@gmail.com,
@@ -28,5 +30,7 @@ app/Repositories/UserRepositoryInterface.php
 • getUserRoles() this is relation to get roles of user
 • To see migration file of roles table follow path 
 database/migrations/roles.php
-• Jwt documentation => https://jwtauth.readthedocs.io/en/develop/laravel-installation
-• Laravel documentation => https://laravel.com
+• Jwt documentation =><a href="https://jwtauth.readthedocs.io/en/develop/laravel-installation">JWT Documentation</a> 
+• Laravel documentation =><a href="https://laravel.com ">Laravel Documentation</a> 
+</body>
+</html>
