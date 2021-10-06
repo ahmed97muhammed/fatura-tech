@@ -18,6 +18,9 @@ app/http/controllers/AuthController.php<br>
 </p>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
+<p>
+    <img src="screenshots/2.jpg" width="900" height="500" />
+</p>
 • Test apis in postman<br>
 <p>
     <img src="screenshots/api.jpg" width="900" height="500" />
@@ -29,13 +32,28 @@ authenticated<br>
 organized.<br>
 • Follow Path 
 app/Repositories/UserRepositoryInterface.php
+<p>
+    <img src="screenshots/4.jpg" width="900" height="500" />
+</p>
 • Follow Path app/Repositories/UserRepository.php<br>
+<p>
+    <img src="screenshots/5.jpg" width="900" height="500" />
+</p>
 • Assign specific user a specific role or permission.<br>
 • Follow Path app/Role.php<br>
+<p>
+    <img src="screenshots/6.jpg" width="900" height="500" />
+</p>
 • Follow Path app/User.php<br>
+<p>
+    <img src="screenshots/7.jpg" width="900" height="500" />
+</p>
 • getUserRoles() this is relation to get roles of user<br>
 • To see migration file of roles table follow path 
 database/migrations/roles.php<br>
+<p>
+    <img src="screenshots/8.jpg" width="900" height="500" />
+</p>
 • Jwt documentation =><a href="https://jwt-auth.readthedocs.io/en/develop/laravel-installation/">JWT Documentation</a> <br>
 • Laravel documentation =><a href="https://laravel.com ">Laravel Documentation</a> <br>
 </body>
