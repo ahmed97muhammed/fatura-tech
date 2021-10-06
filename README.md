@@ -3,7 +3,7 @@
 Fatura-tech task
 Ahmed Muhammed Ahmed 
 Email:a7med97mu@gmail.com,
-mobile:01154022640
+mobile:01154022640<br>
 • The project was built using Laravel framework.<br>
 • Service is responsible for authenticate and login users.<br>
 • Service is responsible for validating whether logged <br>
@@ -16,7 +16,7 @@ app/http/controllers/AuthController.php<br>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
 • Test apis in postman<br>
-![Alt text](public/api.jpg "Optional title")<br>
+<img src="api.jpg"><br>
 • This access token will be used to make the user <br>
 authenticated<br>
 • I used Repository Design Pattern To make code more 
