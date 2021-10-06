@@ -1,6 +1,6 @@
 <html>
 <body>
-Fatura-tech task
+Fatura-tech task<br>
 Ahmed Muhammed Ahmed 
 Email:a7med97mu@gmail.com,
 mobile:01154022640<br>
@@ -16,7 +16,7 @@ app/http/controllers/AuthController.php<br>
 • Test APIs in Postman:-<br>
 • Follow Path routes/api.php<br>
 • Test apis in postman<br>
-<img src="api.jpg"><br>
+<img src="https://drive.google.com/file/d/1Ez7V1tspoicC1IYNoohDB343iBOwnkcw/view?usp=sharing"><br>
 • This access token will be used to make the user <br>
 authenticated<br>
 • I used Repository Design Pattern To make code more 
