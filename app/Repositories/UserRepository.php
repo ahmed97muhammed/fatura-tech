@@ -96,10 +96,10 @@ class UserRepository implements UserRepositoryInterface
             return User::whereId($id)->update($user);
             }
 
-        }else
-        {
+         }else
+         {
             return response()->json('error',500);
-        }
+          }
 
     }
 
